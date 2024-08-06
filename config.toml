@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://compbrew.github.io'
 languageCode = 'en-us'
 title = 'Compbrew'
 theme = 'poison'
