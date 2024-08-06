@@ -1,0 +1,4 @@
+[submodule "lib/three20"]
+    path = themes/poison
+    url = https://github.com/lukeorth/poison
+    
