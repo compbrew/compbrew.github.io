@@ -1,7 +1,7 @@
 ---
 title: "Mcq"
 date: 2024-11-08T21:44:40+05:00
-draft: true
+draft: false
 ---
 # Welcome to MCQ Master!
 
