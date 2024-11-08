@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 [submodule "poison"]
 	path = poison
 	url = https://github.com/lukeorth/poison
+=======
+[submodule "lib/three20"]
+    path = themes/poison
+    url = https://github.com/lukeorth/poison
+    
+>>>>>>> 16b08b2dbeadf853ec73ae785ccc32838d7501a8
